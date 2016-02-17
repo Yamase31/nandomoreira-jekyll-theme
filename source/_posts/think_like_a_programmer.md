@@ -1,15 +1,16 @@
 ---
 layout: post
 title: "Think like a Programmer"
-date: 2015-11-12 16:41:50
+date: 2016-02-04 14:00:00
 comments: true
-description: "Blog Post #1"
+description: "Blog post about how to think like a programmer"
 keywords: ""
 categories:
 - welcome
 tags:
 - welcome
 ---
+
 
 THINK LIKE A PROGRAMMER
 

@@ -17,7 +17,7 @@ destination: _site
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: BB8
+name: James
 title: My Blog
 description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
@@ -27,8 +27,8 @@ production_url: http://nandomoreira.me
 repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 disqus_shortname: "fernandomoreira"
 rss_path: source/
-author:
-  name      : BB8
+author: 
+  name      : james
   image     : /assets/images/author.jpg
   email     : bb8@swars.com
   url       : http://bb8.me
