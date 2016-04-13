@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The quick, brown fox jumps over a lazy dog"
+title: "Textalyzer"
 date: 2015-11-12 16:42:24
 comments: true
-description: "The quick, brown fox jumps over a lazy dog"
+description: "Blog Post #5"
 keywords: ""
 categories:
 - welcome
@@ -11,24 +11,23 @@ tags:
 - welcome
 ---
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.
+James Lawson
+Blog Post #5
+Wednesday, April 13th, 2016
 
-Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.
+Just as the breathalyser can test if someone was driving under the influence of alcohol, a new device dubbed the “textalyzer” could tell if someone was texting while driving. The way this device works is that someone's phone will be plugged into a laptop with special software on it. The software will go into the touch sensors that cover the area of the screen that the keyboard is on. If the phone has a physical keyboard, the software will go into the sensors under the keyboard. The software will go into the history of either keyboard strokes or touch screen movements to put together messages that were sent and then put timestamps on them. The way this is done, is that every phone stores its keyboard sensor movements in an array to be saved for an hour or so. The software will go into the phone and traverse the array that stores keyboard strokes the array contains metadata that contains timestamps. Due to privacy, the software will take out names that were in the text messages and won't touch any personal data in the phone.
 
-Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs! "Now fax quiz Jack! " my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk.
+This software will be implemented once someone has been convicted of texting and driving. Also, it may become mandatory in NY state that it be implemented in every accident to see if texting and driving could be a cause of the accident.
 
-A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump.
+This software has come about due to the efforts of a group called Distracted Operators Risk Casualties. The son of its co-founder, Ben Lieberman, Evan Lieberman was killed in 2011 by a texting driver at the age of 19.
 
-Joaquin Phoenix was gazed by MTV for luck. A wizard’s job is to vex chumps quickly in fog. Watch "Jeopardy! ", Alex Trebek's fun TV quiz game. Woven silk pyjamas exchanged for blue quartz. Brawny gods just flocked up to quiz and vex him.
+The software has been developed by a company called Cellebrite. Cellebrite is an Israeli company that has been rumored to have been the company that cracked the iphone of the San Bernardino shooter’s iphone.
 
-Adjusting quiver and bow, Zompyc[1] killed the fox. My faxed joke won a pager in the cable TV quiz show. Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit. Six big devils from Japan quickly forgot how to waltz.
+http://arstechnica.com/tech-policy/2016/04/first-came-the-breathalyzer-now-meet-the-roadside-police-textalyzer/
 
-Big July earthquakes confound zany experimental vow. Foxy parsons quiz and cajole the lovably dim wiki-girl. Have a pick: twenty six letters - no forcing a jumbled quiz! Crazy Fredericka bought many very exquisite opal jewels.
+http://www.theverge.com/2016/4/12/11412314/textalyzer-distracted-driving-new-york-legislation 
 
-Sixty zippers were quickly picked from the woven jute bag. A quick movement of the enemy will jeopardize six gunboats. All questions asked by five watch experts amazed the judge. Jack quietly moved up front and seized the big ball of wax.
+http://www.autoblog.com/2016/04/12/textalyzer-new-york-distracted-driving/ 
 
-The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox.
 
-Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz. Quick, Baz, get my woven flax jodhpurs!
-
-"Now fax quiz Jack! " my brave ghost pled. Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq. Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box. Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack! Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV
+Word Count: 336
