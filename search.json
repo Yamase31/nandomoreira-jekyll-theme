@@ -1,0 +1,51 @@
+[
+  
+    {
+      "title"    : "What is Responsive Design? What are best practices for Responsive Design?",
+      "category" : "welcome",
+      "tags"     : "welcome",
+      "url"      : "/nandomoreira-jekyll-theme/what-is-responsive-design%3F-what-are-best-practices-for-responsive-design%3F/",
+      "date"     : "2016-11-12 10:39:18 -0600"
+    } ,
+  
+    {
+      "title"    : "Think like a Programmer",
+      "category" : "welcome",
+      "tags"     : "welcome",
+      "url"      : "/nandomoreira-jekyll-theme/think-like-a-programmer/",
+      "date"     : "2016-02-04 08:00:00 -0600"
+    } ,
+  
+    {
+      "title"    : "Textalyzer",
+      "category" : "welcome",
+      "tags"     : "welcome",
+      "url"      : "/nandomoreira-jekyll-theme/the-quick-brown-fox-jumps-over-a-lazy-dog/",
+      "date"     : "2015-11-12 10:42:24 -0600"
+    } ,
+  
+    {
+      "title"    : "Think like a Programmer",
+      "category" : "welcome",
+      "tags"     : "welcome",
+      "url"      : "/nandomoreira-jekyll-theme/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/",
+      "date"     : "2015-11-12 10:41:50 -0600"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "welcome",
+      "tags"     : "welcome and hello-world",
+      "url"      : "/nandomoreira-jekyll-theme/welcome-to-jekyll/",
+      "date"     : "2015-11-12 10:08:24 -0600"
+    } ,
+  
+    {
+      "title"    : "Blog Post #3",
+      "category" : "welcome",
+      "tags"     : "welcome",
+      "url"      : "/nandomoreira-jekyll-theme/far-far-away-behind-the-word-mountains-far-from-the-countries-vokalia-and-consonantia/",
+      "date"     : "2015-03-01 16:38:20 -0600"
+    } 
+  
+]

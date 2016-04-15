@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <description>Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript</description>
+    <link>http://nandomoreira.me/nandomoreira-jekyll-theme/</link>
+    <atom:link href="http://nandomoreira.me/nandomoreira-jekyll-theme/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 12:29:22 -0500</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 12:29:22 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>What is Responsive Design? What are best practices for Responsive Design?</title>
+        <description>&lt;p&gt;James Lawson Blog Post #2&lt;/p&gt; &lt;p&gt;What is Responsive Design? What are best practices for Responsive Design?&lt;/p&gt; &lt;p&gt;Responsive web design is where your website will look as best at it can and function as well as it can depending on the device that it is being displayed on. This means that your site will look different and function different on mobile vs on a computer. It also means that you need a different version of your site to display depending on the device. Responsive web design can be done two different ways. The first is the less efficient, but more straightforward....</description>
+        <pubDate>Sat, 12 Nov 2016 10:39:18 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/what-is-responsive-design%3F-what-are-best-practices-for-responsive-design%3F/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/what-is-responsive-design%3F-what-are-best-practices-for-responsive-design%3F/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Think like a Programmer</title>
+        <description>&lt;p&gt;THINK LIKE A PROGRAMMER&lt;/p&gt; &lt;p&gt;Write about your research and what stuck out. Do you agree or disagree with anything in the readings? Will you use anything that you read about? How so?&lt;/p&gt; &lt;p&gt;I agree that it is the effort that counts and not the intelligence that is important. The same is true in sports, it is not the skill that is important, it is the effort that is important and that wins games. Nike has a great ad that talks about this: https://www.youtube.com/watch?v=ijTwZNUBhcI&amp;amp;feature=youtu.be .I also agree that programmers are good at working through confusion. If you have an error in...</description>
+        <pubDate>Thu, 04 Feb 2016 08:00:00 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/think-like-a-programmer/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/think-like-a-programmer/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Textalyzer</title>
+        <description>&lt;p&gt;James Lawson Blog Post #5 Wednesday, April 13th, 2016&lt;/p&gt; &lt;p&gt;Just as the breathalyser can test if someone was driving under the influence of alcohol, a new device dubbed the “textalyzer” could tell if someone was texting while driving. The way this device works is that someone’s phone will be plugged into a laptop with special software on it. The software will go into the touch sensors that cover the area of the screen that the keyboard is on. If the phone has a physical keyboard, the software will go into the sensors under the keyboard. The software will go into...</description>
+        <pubDate>Thu, 12 Nov 2015 10:42:24 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/the-quick-brown-fox-jumps-over-a-lazy-dog/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/the-quick-brown-fox-jumps-over-a-lazy-dog/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Think like a Programmer</title>
+        <description>&lt;p&gt;THINK LIKE A PROGRAMMER&lt;/p&gt; &lt;p&gt;Write about your research and what stuck out. Do you agree or disagree with anything in the readings? Will you use anything that you read about? How so?&lt;/p&gt; &lt;p&gt;I agree that it is the effort that counts and not the intelligence that is important. The same is true in sports, it is not the skill that is important, it is the effort that is important and that wins games. Nike has a great ad that talks about this: https://www.youtube.com/watch?v=ijTwZNUBhcI&amp;amp;feature=youtu.be .I also agree that programmers are good at working through confusion. If you have an error in...</description>
+        <pubDate>Thu, 12 Nov 2015 10:41:50 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt; &lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt; &lt;p&gt;Jekyll also offers powerful support for...</description>
+        <pubDate>Thu, 12 Nov 2015 10:08:24 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/welcome-to-jekyll/</guid>
+        
+        <category>welcome</category>
+        
+        <category>hello-world</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog Post #3</title>
+        <description>&lt;p&gt;James Lawson Monday, February 29th, 2016 Blog Post #3&lt;/p&gt; &lt;p&gt;What are Block, inline-block &amp;amp; inline and when should you use them?&lt;/p&gt; &lt;p&gt;Block, inline-block, and inline are all different ways to place text, links, images, etc on your website. Lets run through all of them:&lt;/p&gt; &lt;p&gt;Block Elements:&lt;/p&gt; &lt;p&gt;Have left and right margins, but no top and bottom&lt;/p&gt; &lt;p&gt;No set width and height&lt;/p&gt; &lt;p&gt;Line break after each element&lt;/p&gt; &lt;p&gt;No HTML elements&lt;/p&gt; &lt;p&gt;Inline Elements:&lt;/p&gt; &lt;p&gt;Elements can be on the left and right&lt;/p&gt; &lt;p&gt;No set width and height&lt;/p&gt; &lt;p&gt;Have left and right margins, but no top and bottom&lt;/p&gt; &lt;p&gt;No line break&lt;/p&gt; &lt;p&gt;Tolerates HTML elements&lt;/p&gt;...</description>
+        <pubDate>Sun, 01 Mar 2015 16:38:20 -0600</pubDate>
+        <link>http://nandomoreira.me/nandomoreira-jekyll-theme/far-far-away-behind-the-word-mountains-far-from-the-countries-vokalia-and-consonantia/</link>
+        <guid isPermaLink="true">http://nandomoreira.me/nandomoreira-jekyll-theme/far-far-away-behind-the-word-mountains-far-from-the-countries-vokalia-and-consonantia/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
